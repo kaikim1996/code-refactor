@@ -13,7 +13,7 @@ Website features a header with a navigation bar, a split body with two seperate 
 
 ## Link to Deployed Application
 
-URL: <kaikim1996.github.io/horiseon-website>
+URL: https://kaikim1996.github.io/horiseon-website
 
 ---
 
