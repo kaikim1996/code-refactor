@@ -5,7 +5,7 @@
 ## Description
 Refactored the CSS and HTML files for the Horiseon webpage. Followed best practices for writing HTML and CSS files.
 
-![Horiseon Webpage Overview](./assets/images/updated-horiseon.gif)
+![Horiseon Webpage Overview](./assets/images/horiseon.png)
 
 Website features a header with a navigation bar, a split body with two seperate sections and a footer. 
 
