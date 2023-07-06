@@ -5,7 +5,7 @@
 ## Description
 Refactored the CSS and HTML files for the Horiseon webpage. 
 
-![Horiseon Webpage Overview](.asset/images/horiseon-webpage.png)
+![Horiseon Webpage Overview](./asset/images/horiseon-webpage.png)
 
 ---
 
